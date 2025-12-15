@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "HYDRA",
+  "base_artist": "MYTH & ROID",
+  "createdAt": "2025-12-15T06:35:03.286448Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hydra Fancies",
+      "artist": "of Montreal",
+      "has_synced": false,
+      "path": "select/01_Hydra_Fancies_of_Montreal.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hydra - Live",
+      "artist": "TOTO",
+      "has_synced": false,
+      "path": "select/02_Hydra_-_Live_TOTO.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Wings of the Hydra",
+      "artist": "Therion",
+      "has_synced": false,
+      "path": "select/03_The_Wings_of_the_Hydra_Therion.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Wings Of The Hydra - Live",
+      "artist": "Therion",
+      "has_synced": false,
+      "path": "select/04_The_Wings_Of_The_Hydra_-_Live_Therion.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Wings of the Hydra (Live)",
+      "artist": "Therion",
+      "has_synced": false,
+      "path": "select/05_The_Wings_of_the_Hydra_(Live)_Therion.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "And We Run (Hydra Live in Concert)",
+      "artist": "Within Temptation feat. Xzibit",
+      "has_synced": false,
+      "path": "select/06_And_We_Run_(Hydra_Live_in_Concert)_Within_Temptation_feat._Xzibit.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "And We Run (feat. Xzibit) (Hydra Live in Concert)",
+      "artist": "Within Temptation Xzibit",
+      "has_synced": false,
+      "path": "select/07_And_We_Run_(feat._Xzibit)_(Hydra_Live_in_Concert)_Within_Temptation_Xzibit.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Covered by Roses (Hydra Live in Concert)",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/08_Covered_by_Roses_(Hydra_Live_in_Concert)_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Edge of the World (Hydra Live in Concert)",
+      "artist": "Within Temptation",
+      "has_synced": false,
+      "path": "select/09_Edge_of_the_World_(Hydra_Live_in_Concert)_Within_Temptation.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ice Queen (Hydra Live in Concert)",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/10_Ice_Queen_(Hydra_Live_in_Concert)_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Iron (Hydra Live in Concert)",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/11_Iron_(Hydra_Live_in_Concert)_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Let Us Burn (Hydra Live in Concert)",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/12_Let_Us_Burn_(Hydra_Live_in_Concert)_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mother Earth (Hydra Live in Concert)",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/13_Mother_Earth_(Hydra_Live_in_Concert)_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sinéad (Hydra Live in Concert)",
+      "artist": "Within Temptation",
+      "has_synced": false,
+      "path": "select/14_Sinéad_(Hydra_Live_in_Concert)_Within_Temptation.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Stand My Ground (Hydra Live in Concert)",
+      "artist": "Within Temptation",
+      "has_synced": false,
+      "path": "select/15_Stand_My_Ground_(Hydra_Live_in_Concert)_Within_Temptation.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "What Have You Done (Hydra Live in Concert)",
+      "artist": "Within Temptation",
+      "has_synced": true,
+      "path": "select/16_What_Have_You_Done_(Hydra_Live_in_Concert)_Within_Temptation.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Whole World Is Watching (Hydra Live in Concert)",
+      "artist": "Within Temptation",
+      "has_synced": false,
+      "path": "select/17_Whole_World_Is_Watching_(Hydra_Live_in_Concert)_Within_Temptation.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Teeth of the Hydra",
+      "artist": "Omen",
+      "has_synced": false,
+      "path": "select/18_Teeth_of_the_Hydra_Omen.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HYDRA",
+      "artist": "MYTH & ROID",
+      "has_synced": false,
+      "path": "select/pl_01_HYDRA_MYTH_&_ROID.txt"
+    }
+  ]
+}
